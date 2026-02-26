@@ -1,3 +1,3 @@
-console.log("Server is Running..");
 
-console.log(" i'm khushboo ");
+
+console.log(" Hello world");
